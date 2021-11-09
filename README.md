@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/novonordiskit/Azure%20DevOps%20Tool%20Verification%20%E2%80%93%20Playground/_apis/build/status/testtutorial?branchName=master)](https://dev.azure.com/novonordiskit/Azure%20DevOps%20Tool%20Verification%20%E2%80%93%20Playground/_build/latest?definitionId=3150&branchName=master)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
